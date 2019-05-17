@@ -27,6 +27,7 @@
                                 <artifact><id>log4j:log4j:1.2.17</id></artifact>
                                 <artifact><id>org.apache.commons:commons-exec:1.3</id></artifact>
                                 <artifact><id>org.apache.commons:commons-lang3:3.0</id></artifact>
+                                <artifact><id>org.eclipse.jdt:org.eclipse.jdt.annotation:2.1.100</id></artifact>
                             </artifacts>
                         </configuration>
                     </execution>
